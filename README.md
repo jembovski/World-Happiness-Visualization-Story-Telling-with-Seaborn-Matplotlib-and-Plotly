@@ -725,5 +725,3 @@ fig.show()
 
 
 
-                        })                };                });            </script>        </div>
-
